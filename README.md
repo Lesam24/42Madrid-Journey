@@ -7,7 +7,7 @@ This repository contains my work and projects completed during the **42 Madrid**
 🚧 Currently in progress
 
 - Current Milestone: **M1**
-- Last finished and defended project: **libft**
+- Finished and defended current Milestone projects: ft_printf
 - This repo will continue to grow as I advance through the curriculum.
 
 ## Contents
