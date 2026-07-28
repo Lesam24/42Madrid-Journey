@@ -6,8 +6,8 @@ This repository contains my work and projects completed during the **42 Madrid**
 
 🚧 Currently in progress
 
-- Current Milestone: **M1**
-- Finished and defended current Milestone projects: ft_printf, get_next_line
+- Current Milestone: **M2**
+- Finished and defended current Milestone projects: N/A
 - This repo will continue to grow as I advance through the curriculum.
 
 ## Contents
