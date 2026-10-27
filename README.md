@@ -7,7 +7,7 @@ This repository contains my work and projects completed during the **42 Madrid**
 🚧 Currently in progress
 
 - Current Milestone: **M2**
-- Finished and defended current Milestone projects: Python Module 00, Module 01, Module 02
+- Finished and defended current Milestone projects: Python Module 00, Module 01, Module 02, Module 03
 - This repo will continue to grow as I advance through the curriculum.
 
 ## Contents
